@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\Scripts\script.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Data\Scripts\script.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="WebServices\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DevIO.Api.Business\DevIO.Api.Business.csproj" />
+    <ProjectReference Include="..\DevIO.Api.Cross\DevIO.Api.Cross.csproj" />
+  </ItemGroup>
+
+</Project>

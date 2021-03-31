@@ -1,0 +1,35 @@
+Arquitetura é a organização fundamental de um sistema;
+
+Framework de arquitetura - Falam sobre conceitos da arquitetura
+TOGAF
+ISO/IEC
+The Zachman Framework
+
+PERFIS DE ARQUITETOS
+
+Enterprise Architect
+Business Architect
+Solution Architect
+Software Architect
+
+ARQUITETO CORPORATIVO
+Objetivos - Garantir estrategias com soluções de TI
+Artefatos - Estratégias de TI
+Conceito Chave - Alinhamento entre Ti e Negócios
+
+ARQUITETO DE NEGOCIOS
+Obejtivos - Modelagem de negocio de organização
+Artefatos - Mapa de processos, casos de uso
+Conceito Chave - Entender o funcionamento da organização
+
+ARQUITETO DE SOLUÇÕES
+objetivo - Projetos de soluções baseados em TI
+Artefatos - Diagrama de aplicações, mapa de sistemas
+Conceito Chave - Suportar a estrategia do negocio
+
+ARQUTETO DE SOFTWARE
+Objetivo - Projetar aplicações com boas praticas
+Artefatos - Frameworks, arquiteturas, modelos de referencia
+Conceito Chave - Qualidade, flexibilidade, reuso, testabilidade
+
+
