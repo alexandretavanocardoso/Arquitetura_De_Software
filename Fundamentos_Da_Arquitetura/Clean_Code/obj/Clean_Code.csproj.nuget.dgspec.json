@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\Design_Patterns.csproj": {}
+    "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Clean_Code\\Clean_Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\Design_Patterns.csproj": {
+    "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Clean_Code\\Clean_Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\Design_Patterns.csproj",
-        "projectName": "Design_Patterns",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\Design_Patterns.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Clean_Code\\Clean_Code.csproj",
+        "projectName": "Clean_Code",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Clean_Code\\Clean_Code.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Clean_Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

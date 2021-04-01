@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Interface_VS_Implementacao
+namespace Clean_Code
 {
     public class Startup
     {

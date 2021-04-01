@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Interface_VS_Implementacao
+namespace Design_Patterns
 {
     public class Program
     {

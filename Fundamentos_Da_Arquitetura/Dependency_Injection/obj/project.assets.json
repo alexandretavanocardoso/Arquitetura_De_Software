@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\Design_Patterns.csproj",
-      "projectName": "Design_Patterns",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\Design_Patterns.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Dependency_Injection\\Dependency_Injection.csproj",
+      "projectName": "Dependency_Injection",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Dependency_Injection\\Dependency_Injection.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Interface_VS_Implementacao\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\ArquiteturaDeSoftware\\Fundamentos_Da_Arquitetura\\Dependency_Injection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
