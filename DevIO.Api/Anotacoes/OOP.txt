@@ -1,0 +1,12 @@
+﻿
+
+Orientação a Objetos
+
+PILARES FUNDAMENTAIS
+Estado - Comportamento - Abstração - Herança - Polimorfismo - Encapsulamento
+
+"Sempre buscar o baixo acoplamento e a alta coesão entre objetos"
+ACOPLAMENTO - Dependencia direta entra objeto e outro, se um muda outro muda
+COESAO - Objetos executando a sua prorpia responsabilidade
+
+
