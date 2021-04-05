@@ -1,0 +1,20 @@
+﻿
+
+SOLID é um acronimo dos cincos primeiros principios da programação
+é um fundamento da OOP
+Beneficios - Seja facil de se manter e se ajustar, Seja testavel e de facil entendimento, Seja extensivel para alterações, Que forneça o maximo de reaproveitamento
+
+Singles Responsibility - Open Closed - Liskov Substitution - Inteface Segregation - Dependency Inversion
+
+SRP - SINGLES RESPONSIBILITY PRINCIPLE
+"Uma classe deve ter um, e apenas um, motivo para ser modificada"
+- Cada classe,(camada de negocio em geral) ter seu proprio proposito, para ser modificada mais facilmente
+
+OCP - OPEN CLOSED PRINCIPLE
+"Entidades de software (classes, modulos, funcoes, etc) devem estar abertas para extensão, mas
+fechadas para modificacao"
+
+LSP - LISKOV SUBSTITUTION PRINCIPLE
+"Subclasses devem ser substituiveis por suas Superclasses"
+
+
