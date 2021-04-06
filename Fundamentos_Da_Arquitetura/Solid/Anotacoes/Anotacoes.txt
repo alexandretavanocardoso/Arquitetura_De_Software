@@ -17,4 +17,8 @@ fechadas para modificacao"
 LSP - LISKOV SUBSTITUTION PRINCIPLE
 "Subclasses devem ser substituiveis por suas Superclasses"
 
+ISP -INTEFACE SEGREGATION PRINCIPLE
+"Cliente não devem ser forçados a depender de métodos que não usam"
+"Muitas Interfaces especificas são melhores que uma interface unica"
+
 
