@@ -21,4 +21,7 @@ ISP -INTEFACE SEGREGATION PRINCIPLE
 "Cliente não devem ser forçados a depender de métodos que não usam"
 "Muitas Interfaces especificas são melhores que uma interface unica"
 
+DIP - DEPENDENCY INVERSION PRINCIPLE
+"Dependa de uma abstração e não de uma implementação"
+
 
